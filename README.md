@@ -21,13 +21,21 @@
  📸 Project Screenshots & Components Overview
 
  ## 💻 Web UI 
+ 
+![Web UI](media/web.png)
+
 
 ##  🧱 Amazon DynamoDB – Student Table
 
+![DB](media/DB_table.png)
+
 ##  📡 Amazon API Gateway – REST API Configuration
 
+![API](media/api.png)
+
 ##  📂 Amazon S3 – Static Website Hosting
- 
+
+![s3](media/bucket.png)
 
 ✅ Outcome:
  🔹Successfully deployed a real-world application on AWS using only managed services
