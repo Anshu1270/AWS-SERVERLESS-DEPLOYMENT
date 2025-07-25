@@ -57,7 +57,7 @@
 Feel free to connect with me:
 
 Anshuman Goswami
-- 📧 [Email](mailto:anshumangoswami03@gmail.com)
+- 📧 anshumangoswami03@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anshuman-goswami-devopsenthusiast/)
 
 
