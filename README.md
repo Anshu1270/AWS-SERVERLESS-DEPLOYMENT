@@ -43,9 +43,9 @@
 
 ✅ Outcome:
 
- 🔹Successfully deployed a real-world application on AWS using only managed services
- 🔹Configured IAM roles, API Gateway resources, and CORS settings
- 🔹Ensured smooth communication between frontend and backend components in a secure and scalable manner.
+🔹Successfully deployed a real-world application on AWS using only managed services.
+🔹Configured IAM roles, API Gateway resources, and CORS settings
+🔹Ensured smooth communication between frontend and backend components in a secure and scalable manner.
 
 🚀 What I Achieved:
 
