@@ -25,7 +25,7 @@
 ![Web](media/Web.png)
 
 
-##  🧱 Amazon DynamoDB – Student Table
+##  🧱 Amazon DynamoDB 
 
 ![DB](media/DB_table.png)
 
@@ -33,7 +33,7 @@
 
 ![API](media/api.png)
 
-##  📂 Amazon S3 – Static Website Hosting
+##  📂 Amazon S3 -
 
 ![s3](media/bucket.png)
 
@@ -48,4 +48,12 @@
 🔹Built confidence to handle real-world cloud projects from an infrastructure and DevOps perspective.
 
 📌 Always excited to learn, build, and optimize cloud solutions.
- If you're working in cloud or DevOps engineer role— let’s connect and share ideas! 🙌
+ Open for Cloud and Devops engineer role 🙌
+
+Feel free to connect with me:
+
+Anshuman Goswami
+- 📧 [Email](mailto:anshumangoswami03@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anshuman-goswami-devopsenthusiast/)
+
+
