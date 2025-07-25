@@ -22,7 +22,7 @@
 
  ## 💻 Web UI 
  
-![Web UI](media/web.png)
+![Web](media/Web.png)
 
 
 ##  🧱 Amazon DynamoDB – Student Table
