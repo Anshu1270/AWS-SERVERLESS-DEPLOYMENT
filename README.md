@@ -3,7 +3,9 @@
 🧩 Project Overview:
 
  Implemented and deployed a fully serverless infrastructure on AWS to host and run a student data management system that helps to store and list student data with dynamic frontend-backend interaction.
+ 
 🔹 Frontend: Static website (HTML + JavaScript) hosted on Amazon S3
+
 🔹 Backend Services:
  1. API Gateway to expose secure REST endpoints.
  2. AWS Lambda functions to handle GET and POST logic.
