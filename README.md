@@ -1,6 +1,7 @@
 # AWS-SERVERLESS-DEPLOYMENT
 
 🧩 Project Overview:
+
  Implemented and deployed a fully serverless infrastructure on AWS to host and run a student data management system that helps to store and list student data with dynamic frontend-backend interaction.
 🔹 Frontend: Static website (HTML + JavaScript) hosted on Amazon S3
 🔹 Backend Services:
@@ -19,6 +20,7 @@
  IAM Roles          | Controls secure access between services  
 
  📸 Project Screenshots & Components Overview
+ 
 
  ## 💻 Web UI 
  
