@@ -40,11 +40,13 @@
 ![s3](media/bucket.png)
 
 ✅ Outcome:
+
  🔹Successfully deployed a real-world application on AWS using only managed services
  🔹Configured IAM roles, API Gateway resources, and CORS settings
  🔹Ensured smooth communication between frontend and backend components in a secure and scalable manner.
 
 🚀 What I Achieved:
+
 🔹Strengthened my understanding of cloud-native deployments and serverless workflows.
 🔹Improved my practical skills in using AWS core services in a real deployment scenario.
 🔹Built confidence to handle real-world cloud projects from an infrastructure and DevOps perspective.
